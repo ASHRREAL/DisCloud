@@ -1,0 +1,5 @@
+This code is a Python-based desktop application called DisCloud, which allows users to upload, manage, 
+and download files to and from a Discord server channel, using it as a cloud storage solution. 
+The interface, built with tkinter and customtkinter, provides easy file selection, upload progress tracking, 
+and file management features like searching, downloading, and deleting files. It also includes settings for 
+storing a Discord bot token and channel ID, enabling seamless connectivity and automatic file management through a bot.
