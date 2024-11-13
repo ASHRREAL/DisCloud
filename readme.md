@@ -26,6 +26,5 @@ Progress and status updates are displayed.
 Manage Files Tab:
 View uploaded files with details like name, size, and number of chunks.
 Perform actions: Download, Delete, and Refresh file list.
-Settings Tab:
 
 This project is open-source and available for free use and modification.
